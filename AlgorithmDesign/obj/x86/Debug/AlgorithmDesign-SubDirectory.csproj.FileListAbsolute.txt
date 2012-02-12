@@ -1,0 +1,11 @@
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\bin\Debug\AlgorithmDesign-SubDirectory.exe
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\bin\Debug\AlgorithmDesign-SubDirectory.pdb
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign_SubDirectory.Properties.Resources.resources
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign-SubDirectory.exe
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign-SubDirectory.pdb
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign_SubDirectory.BaseForm.resources
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign_SubDirectory.MainForm.resources
+C:\Data\My Works\C#.NET\AlgorithmDesign\AlgorithmDesign-SubDirectory\AlgorithmDesign-SubDirectory\obj\x86\Debug\AlgorithmDesign_SubDirectory.SubSet.resources

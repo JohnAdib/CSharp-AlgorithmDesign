@@ -1,0 +1,390 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:BaseForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:SubSet.Designer.cs" caret="619" fromTop="18" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Prod.Designer.cs" caret="4396" fromTop="11" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/f:Program.cs" caret="298" fromTop="10" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MainForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.Designer.cs" caret="0" fromTop="0" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="3394" fromTop="62" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MainForm.cs" caret="344" fromTop="16" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Sum2String.cs" caret="573" fromTop="17" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:BaseForm.cs" caret="0" fromTop="0" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:SubSet.cs" caret="2295" fromTop="39" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="3331" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="3163" fromTop="22" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="2895" fromTop="18" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="2496" fromTop="18" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="508" fromTop="14" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="271" fromTop="12" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Production.cs" caret="3394" fromTop="17" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:SubSet.cs" caret="894" fromTop="16" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:Sum2String.cs" caret="573" fromTop="17" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:BaseForm.cs" caret="0" fromTop="0" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="1899" fromTop="11" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="2086" fromTop="16" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="6494" fromTop="11" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="7007" fromTop="23" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="7149" fromTop="23" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="6157" fromTop="17" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="6172" fromTop="19" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="6273" fromTop="21" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="8362" fromTop="13" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="9777" fromTop="23" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="14223" fromTop="7" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="12322" fromTop="8" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="13111" fromTop="25" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="9268" fromTop="19" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="9268" fromTop="17" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="9570" fromTop="18" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="3193" fromTop="13" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="3432" fromTop="5" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="3890" fromTop="10" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="9234" fromTop="14" />
+      <File id="E36F2545-5F08-491E-B234-2E4B733A0A06/d:Forms/f:MobileKeypad.cs" caret="14235" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="MessageBox`0" priority="263" />
+      <Item value="SubSet`0" priority="171" />
+      <Item value="SubSet" priority="29" />
+      <Item value="_frmSubSet" priority="31" />
+      <Item value="Form`0" priority="63" />
+      <Item value="if" priority="1055" />
+      <Item value="richTextBox1" priority="255" />
+      <Item value="Text" priority="153" />
+      <Item value="textBox1" priority="240" />
+      <Item value="else" priority="287" />
+      <Item value="Environment`0" priority="218" />
+      <Item value="chkOld" priority="26" />
+      <Item value="CalculateAllSubSet`0" priority="26" />
+      <Item value="private" priority="639" />
+      <Item value="int" priority="1883" />
+      <Item value="double" priority="193" />
+      <Item value="string" priority="1649" />
+      <Item value="Prod`0" priority="159" />
+      <Item value="textBox2" priority="95" />
+      <Item value="return" priority="789" />
+      <Item value="txtResult" priority="154" />
+      <Item value="u" priority="767" />
+      <Item value="v" priority="319" />
+      <Item value="Prod" priority="26" />
+      <Item value="MaximizeBox" priority="63" />
+      <Item value="Convert`0" priority="154" />
+      <Item value="Int32`0" priority="149" />
+      <Item value="out" priority="127" />
+      <Item value="Int64`0" priority="501" />
+      <Item value="bool" priority="223" />
+      <Item value="CalcMaxDigit`0" priority="31" />
+      <Item value="lenu" priority="63" />
+      <Item value="lenv" priority="31" />
+      <Item value="n" priority="159" />
+      <Item value="lblResult" priority="31" />
+      <Item value="m" priority="319" />
+      <Item value="new" priority="287" />
+      <Item value="void" priority="383" />
+      <Item value="var" priority="383" />
+      <Item value="long" priority="130" />
+      <Item value="num1" priority="127" />
+      <Item value="num2" priority="63" />
+      <Item value="using" priority="123" />
+      <Item value="System" priority="236" />
+      <Item value="Windows" priority="107" />
+      <Item value="Forms" priority="317" />
+      <Item value="Math`0" priority="187" />
+      <Item value="Int32Converter`0" priority="26" />
+      <Item value="IntPtr`0" priority="26" />
+      <Item value="Int64Converter`0" priority="26" />
+      <Item value="MOD`0" priority="63" />
+      <Item value="mod`0" priority="58" />
+      <Item value="x" priority="255" />
+      <Item value="hD" priority="32" />
+      <Item value="power" priority="31" />
+      <Item value="Production`0" priority="371" />
+      <Item value="y" priority="159" />
+      <Item value="z" priority="95" />
+      <Item value="w" priority="63" />
+      <Item value="false" priority="191" />
+      <Item value="o" priority="63" />
+      <Item value="txtlen" priority="158" />
+      <Item value="rawtxt" priority="255" />
+      <Item value="NewsStyleUriParser`0" priority="31" />
+      <Item value="index" priority="186" />
+      <Item value="while" priority="31" />
+      <Item value="finish" priority="26" />
+      <Item value="inCalc" priority="95" />
+      <Item value="result" priority="565" />
+      <Item value="i" priority="863" />
+      <Item value="j" priority="319" />
+      <Item value="DialogResult" priority="63" />
+      <Item value="k" priority="31" />
+      <Item value="for" priority="511" />
+      <Item value="AlgorithmDesign" priority="26" />
+      <Item value="txtset" priority="94" />
+      <Item value="set" priority="31" />
+      <Item value="_set" priority="63" />
+      <Item value="_flag" priority="95" />
+      <Item value="CalcSubSet`0" priority="31" />
+      <Item value="mm" priority="31" />
+      <Item value="ToString`0" priority="80" />
+      <Item value="p" priority="127" />
+      <Item value="c" priority="223" />
+      <Item value="subsets" priority="90" />
+      <Item value="NumericUpDownAccelerationCollection`0" priority="26" />
+      <Item value="nUDthreshold" priority="26" />
+      <Item value="txtNum1" priority="159" />
+      <Item value="n1" priority="31" />
+      <Item value="n2" priority="31" />
+      <Item value="StrPow`0" priority="95" />
+      <Item value="pow10M" priority="31" />
+      <Item value="try" priority="255" />
+      <Item value="Exception`0" priority="255" />
+      <Item value="r" priority="32" />
+      <Item value="textBox3" priority="122" />
+      <Item value="char" priority="311" />
+      <Item value="total" priority="95" />
+      <Item value="minLength" priority="63" />
+      <Item value="_frmsumstrings" priority="29" />
+      <Item value="FormBorderStyle" priority="29" />
+      <Item value="Sum2String" priority="25" />
+      <Item value="maxLength" priority="117" />
+      <Item value="Addtwostring`0" priority="65" />
+      <Item value="test" priority="25" />
+      <Item value="frmtest" priority="31" />
+      <Item value="testfunc`0" priority="63" />
+      <Item value="Sum`0" priority="223" />
+      <Item value="num" priority="31" />
+      <Item value="catch" priority="95" />
+      <Item value="ResetText`0" priority="31" />
+      <Item value="exception" priority="32" />
+      <Item value="_iserror" priority="95" />
+      <Item value="true" priority="159" />
+      <Item value="txtInput" priority="218" />
+      <Item value="count" priority="95" />
+      <Item value="alphabetic" priority="223" />
+      <Item value="txtresult" priority="127" />
+      <Item value="multi" priority="31" />
+      <Item value="Test`0" priority="31" />
+      <Item value="tmp" priority="31" />
+      <Item value="a" priority="95" />
+      <Item value="richTextBox2" priority="383" />
+      <Item value="foreach" priority="319" />
+      <Item value="inputchar" priority="31" />
+      <Item value="copy" priority="383" />
+      <Item value="row" priority="95" />
+      <Item value="source" priority="95" />
+      <Item value="nineunique" priority="159" />
+      <Item value="_uniqueCount" priority="255" />
+      <Item value="asrt" priority="31" />
+      <Item value="innineunique" priority="63" />
+      <Item value="class" priority="30" />
+      <Item value="List" priority="92" />
+      <Item value="MobileKeypad`0" priority="63" />
+      <Item value="static" priority="63" />
+      <Item value="NotFiniteNumberException`0" priority="31" />
+      <Item value="Keypad" priority="31" />
+      <Item value="_alphabet" priority="31" />
+      <Item value="KeypadValue`0" priority="31" />
+      <Item value="null" priority="255" />
+      <Item value="_alpha" priority="31" />
+      <Item value="Count`1" priority="26" />
+      <Item value="_alphaCount" priority="31" />
+      <Item value="Dictionary" priority="95" />
+      <Item value="_alphabetList" priority="411" />
+      <Item value="ShowAlphaList`0" priority="31" />
+      <Item value="variable" priority="63" />
+      <Item value="items" priority="31" />
+      <Item value="IOrderedEnumerable" priority="63" />
+      <Item value="s" priority="31" />
+      <Item value="Alphabet" priority="31" />
+      <Item value="label1" priority="63" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="SortDescByValue`0" priority="218" />
+      <Item value="CharEnumerator`0" priority="31" />
+      <Item value="dictionary" priority="31" />
+      <Item value="sortbyvalue" priority="223" />
+      <Item value="counter" priority="639" />
+      <Item value="break" priority="122" />
+      <Item value="_nineTop" priority="318" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="List&lt;char&gt;" priority="28" />
+      <Item value="isTop" priority="63" />
+      <Item value="_result" priority="287" />
+      <Item value="result2" priority="31" />
+      <Item value="label3" priority="31" />
+      <Item value="CharCounter" priority="95" />
+      <Item value="LineCounter" priority="31" />
+      <Item value="totalpressCount" priority="63" />
+      <Item value="colCounter" priority="31" />
+      <Item value="label5" priority="31" />
+      <Item value="label7" priority="31" />
+      <Item value="button1" priority="31" />
+      <Item value="decimal" priority="31" />
+      <Item value="Close`0" priority="26" />
+      <Item value="Animatedtimer" priority="63" />
+      <Item value="ratio" priority="31" />
+      <Item value="comboBox1" priority="31" />
+      <Item value="switch" priority="31" />
+      <Item value="case" priority="31" />
+      <Item value="Byte`0" priority="31" />
+      <Item value="KeyValuePair" priority="31" />
+      <Item value="Sortbyvalue`0" priority="63" />
+      <Item value="Alphabetize`0" priority="31" />
+      <Item value="_alphabetize" priority="31" />
+      <Item value="txtauthor" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="215" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="890" />
+      <Item value="Parent" priority="26" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="TextLength" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="539" />
+      <Item value="ToString`0" priority="296" />
+      <Item value="Trim`0" priority="107" />
+      <Item value="Substring`0" priority="244" />
+      <Item value="ToCharArray`0" priority="80" />
+      <Item value="ToUpper`0" priority="81" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="DefaultIfEmpty`1" priority="53" />
+      <Item value="Remove`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="Text" priority="433" />
+      <Item value="SelectedText" priority="26" />
+      <Item value="Lines" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Validated" priority="26" />
+      <Item value="Checked" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="539" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt16`0" priority="26" />
+      <Item value="ToInt32`0" priority="26" />
+      <Item value="ToChar`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="53" />
+      <Item value="Parse`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="431" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int64">
+      <Item value="TryParse`0" priority="53" />
+      <Item value="Parse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.Int64Converter">
+      <Item value="StandardValuesCollection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="26" />
+      <Item value="Pow`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AlgorithmDesign.Forms.SubSet">
+      <Item value="ActiveForm" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort`0" priority="188" />
+      <Item value="Reverse`0" priority="158" />
+      <Item value="ToString`0" priority="80" />
+      <Item value="ToArray`0" priority="26" />
+      <Item value="Add`0" priority="190" />
+      <Item value="Count" priority="153" />
+      <Item value="OrderByDescending`2" priority="53" />
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="All`1" priority="26" />
+      <Item value="AddRange`0" priority="26" />
+      <Item value="Capacity" priority="54" />
+      <Item value="BinarySearch`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsDigit`0" priority="26" />
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AlgorithmDesign.Forms.test">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Compare`0" priority="26" />
+      <Item value="Join`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="161" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="53" />
+      <Item value="Take`1" priority="26" />
+      <Item value="ToList`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="26" />
+      <Item value="ContainsKey`0" priority="26" />
+      <Item value="Values" priority="109" />
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="Count" priority="27" />
+      <Item value="Keys" priority="26" />
+      <Item value="OrderByDescending`2" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="53" />
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="Take`1" priority="53" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedIndex" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
